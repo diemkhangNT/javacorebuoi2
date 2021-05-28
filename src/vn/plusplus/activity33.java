@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class activity33 {
     public static void main(String[] args) {
-        //Nhập 1 số epsilon tìm giai thừa đến số đó và in ra kq của e = 1+1+1/1!+1/2!+...+1/epsilon!
         Scanner input = new Scanner(System.in);
         System.out.print("Nhap mot so Epsilon < 1: ");
         double epsilon = input.nextDouble();
