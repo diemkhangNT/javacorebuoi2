@@ -2,8 +2,9 @@ package vn.plusplus;
 
 import java.util.Scanner;
 
-public class activity31 {
+public class Activity31 {
     public static void main(String[] args) {
+        // Chương trình tính số Fibonaci
         Scanner input = new Scanner(System.in);
         System.out.print("Nhap chieu dai day fibo: ");
         int n = input.nextInt();

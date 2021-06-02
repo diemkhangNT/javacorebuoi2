@@ -4,8 +4,9 @@ import jdk.nashorn.internal.runtime.regexp.joni.ScanEnvironment;
 
 import java.util.Scanner;
 
-public class activity32 {
+public class Activity32 {
     public static void main(String[] args) {
+        // Chương trình in ra tam giác
         Scanner input = new Scanner(System.in);
         System.out.print("Nhap chieu cao tam giac: ");
         int n = input.nextInt();

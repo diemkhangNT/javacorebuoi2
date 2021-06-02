@@ -2,8 +2,9 @@ package vn.plusplus;
 
 import java.util.Scanner;
 
-public class activity33 {
+public class Activity33 {
     public static void main(String[] args) {
+        //Chương trình tính tổng e nhỏ hơn 1 số Epsilon < 1
         Scanner input = new Scanner(System.in);
         System.out.print("Nhap mot so Epsilon < 1: ");
         double epsilon = input.nextDouble();
