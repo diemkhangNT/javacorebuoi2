@@ -15,7 +15,7 @@ public class Activity31 {
             if(arr[i] > 1){
                 arr[i] = arr[i-1] + arr[i-2];
             }
-            System.out.print(arr[i] + ", ");
+            System.out.print(arr[i]+" ");
             i++;
         }
 
